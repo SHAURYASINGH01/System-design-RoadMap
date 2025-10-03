@@ -1,50 +1,7 @@
-<p>
-  <a href="https://newsletter.systemdesign.one/welcome"><img src="https://i.imgur.com/7pV1SWj.png" /> </a>
-</p>
-
-<p align="center">
-   👋
-   <a href="https://newsletter.systemdesign.one/welcome">
-     <b> Try Newsletter </b>
-   </a>
- </p>
-
----
-
-#### [System Design Case Study](#System-Design-Case-Study-1)
-
-|     |     |     |     |     |     |     |     |     |
-|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-companies)  | [A](#a-companies)  | [B](#b-companies)  | [C](#c-companies)  | [D](#d-companies)  | [](#e-companies)  | [F](#f-companies)  | [G](#g-companies)  | [H](#h-companies)  |
-| [I](#i-companies)  | [](#j-companies)  | [K](#k-companies)  | [L](#l-companies)  | [M](#m-companies)  | [N](#n-companies)  | [](#o-companies)  | [P](#p-companies)  | [Q](#q-companies)  |
-| [R](#r-companies)  | [S](#s-companies)  | [T](#t-companies)  | [U](#u-companies)  | [V](#v-companies)  | [W](#w-companies)  | [](#x-companies)  | [Y](#y-companies)  | [Z](#z-companies)   |
-
-
-#### [System Design Fundamentals](#System-Design-Fundamentals-1)
-
-|    |    |    |    |    |    |    |    |    |
-|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](#-technologies)  | [A](#a-technologies)  | [B](#b-technologies)  | [C](#c-technologies)  | [D](#d-technologies)  | [](#e-technologies)  | [](#f-technologies)  | [G](#g-technologies)  | [H](#h-technologies)  |
-| [](#i-technologies)  | [J](#j-technologies)  | [](#k-technologies)  | [L](#l-technologies)  | [M](#m-technologies)  | [N](#n-technologies)  | [](#o-technologies)  | [P](#p-technologies)  | [Q](#q-technologies)  |
-| [R](#r-technologies)  | [S](#s-technologies)  | [](#t-technologies)  | [](#u-technologies)  | [](#v-technologies)  | [W](#w-technologies)  | [](#x-technologies)  | [](#y-technologies)  | [](#z-technologies) |
-
-
-#### [Software White Papers](#Software-White-Papers-1)
-
-|    |    |    |    |    |    |    |    |    |
-|:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [](#-white-papers)  | [](#a-white-papers)  | [](#b-white-papers)  | [](#c-white-papers)  | [D](#d-white-papers)  | [](#e-white-papers)  | [](#f-white-papers)  | [](#g-white-papers)  | [](#h-white-papers)  |
-| [](#i-white-papers)  | [](#j-white-papers)  | [](#k-white-papers)  | [](#l-white-papers)  | [](#m-white-papers)  | [](#n-white-papers)  | [](#o-white-papers)  | [](#p-white-papers)  | [](#q-white-papers)  |
-| [](#r-white-papers)  | [S](#s-white-papers)  | [](#t-white-papers)  | [](#u-white-papers)  | [](#v-white-papers)  | [](#w-white-papers)  | [](#x-white-papers)  | [](#y-white-papers)  | [](#z-white-papers) |
-
-
----
-
-# System Design
-
 ## System Design Case Study
 
-#### \# companies
+
+####  companies specifies
 
 - [Real-Time Gaming Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Real-Time Live Comments](https://systemdesign.one/live-comment-system-design/)
@@ -282,4 +239,4 @@
 
 ## License
 
-<p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0</p>
+<p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 &Copy;2025</p>
