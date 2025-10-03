@@ -133,9 +133,9 @@
 
 ---
 
-## System Design Fundamentals
+#### System Design Fundamentals
 
-#### \# technologies
+# technologies
 
 - [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
 - [How to Troubleshoot if You Can’t Access a Particular Website?](https://systemdesign.one/how-to-troubleshoot-if-you-cannot-access-a-website/)
@@ -234,9 +234,7 @@
 #### S white papers
 
 - [Google Spanner](https://newsletter.systemdesign.one/p/cloud-spanner-database)
-
 ---
 
 ## License
-
-<p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 &Copy;2025</p>
+<p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0 &copy;2025</p>
